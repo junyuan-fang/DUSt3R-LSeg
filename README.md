@@ -5,9 +5,9 @@
 ## Output:
 * Reconstructed 3D scene
 * Interactive 3D semantic segmentation
-![](https://github.com/junyuan-fang/go_vocation/blob/main/reconstruct_lang.gif)
+![](https://github.com/junyuan-fang/DUSt3R-LSeg/blob/main/reconstruct_lang.gif)
 ## visualization and segmentation in point cloud
-![](https://github.com/junyuan-fang/go_vocation/blob/main/pc_lang.gif)
+![](https://github.com/junyuan-fang/DUSt3R-LSeg/blob/main/pc_lang.gif)
 
 
 
